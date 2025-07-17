@@ -47,6 +47,8 @@ The project applies object-oriented design to model game components cleanly and 
 
 ## Class Structure
 
+<div align="center">
+
 | Class      | Description                                  |
 |------------|----------------------------------------------|
 | `Tetris`   | Main application and menu system             |
@@ -54,6 +56,8 @@ The project applies object-oriented design to model game components cleanly and 
 | `Tauler`   | Board state and collision logic              |
 | `Figura`   | Tetromino representation and rotation        |
 | `InfoJoc`  | Shared enums and game constants              |
+
+</div>
 
 ---
 
